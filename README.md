@@ -8,3 +8,5 @@ For running this project locally ,make sure that you have node.js installed in y
 ### 3. Download all necesary dependencies (listed in package.json)
 ### 4. Install npm using "npm install"
 ### 4. In terminal type  "npm run dev" then project can be show locally
+
+### Preview Link( jazzy-chimera-9eb180.netlify.app)
